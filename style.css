@@ -292,12 +292,11 @@ main {
                 .movie {
                     width: 63rem;
                     height: 32rem;
-                    background: red;
                     position: relative;
                     overflow: hidden;
 
                     img {
-                        width: 60.3rem;
+                        width: 64rem;
                         position: absolute;
                         transition: all ease 0.3s;
                     }
@@ -404,7 +403,6 @@ footer {
                 display: flex;
                 flex-direction: column;
                 line-height: 2.5rem;
-                /* background: red; */
 
                 h1 {
                     font-size: 1.5rem;
@@ -426,7 +424,6 @@ footer {
         .part-2 {
             width: 100%;
             height: 14rem;
-            /* background: red; */
             border-top: 0.1rem solid #9999999a;
             display: flex;
             justify-content: center;
